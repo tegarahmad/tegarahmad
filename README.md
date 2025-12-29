@@ -10,4 +10,7 @@ Data Analyst | Data Engineer | Machine Learning
 📍 Bekasi, Indonesia  
 🎓 Mathematics – Universitas Sebelas Maret (GPA 3.53)  
 
+### Let's Connect
+💼 [LinkedIn](https://linkedin.com/in/tegarahmad)  
+📧 Email: tegarahma00@gmail.com
 
