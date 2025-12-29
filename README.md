@@ -27,7 +27,7 @@ to visualization and automation.
   Machine Learning models (XGBoost, CatBoost, LightGBM) with SHAP explainability
 
 - **Telegram Raw Material Report Bot**  
-  Automated SQL-based reporting system delivering Excel reports via Telegram
+  Python-based automated reporting system using SQL for data extraction and generating Excel reports delivered via Telegram
 
 - **Professional Survey Analytics Dashboard**  
   Data cleaning, analysis, and visualization using Power BI
