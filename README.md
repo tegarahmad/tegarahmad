@@ -7,7 +7,11 @@
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-  
+## 🧠 About Me
+Mathematics graduate with a strong foundation in statistics, data analysis, and machine learning. 
+Experienced in transforming raw data into insights through SQL, Python, and BI tools. 
+Comfortable working with end-to-end data workflows — from data extraction, cleaning, analysis, 
+to visualization and automation.
 
 ### Let's Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Tegar%20Ahmad-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tegarahmad)
