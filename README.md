@@ -1,5 +1,5 @@
 # Hi, I'm Tegar Ahmad Arsy 👋
-Data Analyst | Business Analyst Aspirant | Mathematics Graduate
+Data Analyst | Data Engineer | Machine Learning
 
-📍 Jabodetabek, Indonesia  
-🎓 Mathematics – Sebelas Maret University (GPA 3.53)  
+📍 Bekasi, Indonesia  
+🎓 Mathematics – Universitas Sebelas Maret (GPA 3.53)  
