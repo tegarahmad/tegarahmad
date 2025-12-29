@@ -17,6 +17,9 @@ Experienced in transforming raw data into insights through SQL, Python, and BI t
 Comfortable working with end-to-end data workflows. from data extraction, cleaning, analysis, 
 to visualization and automation.
 
+## 💼 Work Experience
+- Data Analyst at Siam Cement Group .Ltd
+
 ## 📌 Key Metrics
 - 📂 Data & Analytics Projects: **15+**
 - 📊 Dashboards & Reports Built: **8+**
