@@ -19,6 +19,19 @@ to visualization and automation.
 - 🤖 Automation & Data Pipelines: **6+**
 - 📄 Research Publications: **1 (Scopus Indexed)**
 
+## 🔄 Data Workflow
+📥 Data Collection → 🧹 Data Cleaning → 📊 Analysis → 🤖 Modeling → 📈 Visualization → 💡 Business Insight
+
+## ⭐ Featured Projects
+- **Bitcoin Price Forecasting (Scopus Indexed)**  
+  Machine Learning models (XGBoost, CatBoost, LightGBM) with SHAP explainability
+
+- **Telegram Raw Material Report Bot**  
+  Automated SQL-based reporting system delivering Excel reports via Telegram
+
+- **Professional Survey Analytics Dashboard**  
+  Data cleaning, analysis, and visualization using Power BI
+
 ### Let's Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Tegar%20Ahmad-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tegarahmad)
 [![Email](https://img.shields.io/badge/Email-tegarahma00@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tegarahma00@gmail.com)
