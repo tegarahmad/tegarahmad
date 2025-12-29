@@ -14,6 +14,9 @@ Data Analyst | Data Engineer | Machine Learning
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Tegar%20Ahmad-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tegarahmad)
 [![Email](https://img.shields.io/badge/Email-tegarahma00@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tegarahma00@gmail.com)
 
-## 📈 Contribution Graph
-![Snake animation](https://github.com/tegarahmad/tegarahmad/blob/output/github-contribution-grid-snake-dark.svg)
+## 📊 GitHub Analytics
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tegarahmad&show_icons=true&theme=tokyonight)
+
+![Snake animation](https://github.com/tegarahmad/tegarahmad/blob/output/github-contribution-grid-snake.svg)
+
 
