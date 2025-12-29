@@ -18,9 +18,6 @@ to visualization and automation.
 [![Email](https://img.shields.io/badge/Email-tegarahma00@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tegarahma00@gmail.com)
 
 ## 📈 Contribution Activity
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=tegarahmad&theme=github_dark" />
-
-## 📊 GitHub Analytics
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tegarahmad&theme=github_dark" />
 
 ![Snake animation](https://github.com/tegarahmad/tegarahmad/blob/output/github-contribution-grid-snake.svg)
