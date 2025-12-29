@@ -15,4 +15,5 @@ Data Analyst | Data Engineer | Machine Learning
 [![Email](https://img.shields.io/badge/Email-tegarahma00@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tegarahma00@gmail.com)
 
 ## 📈 Contribution Graph
-![Snake animation](https://github.com/tegarahmad/tegarahmad/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/tegarahmad/tegarahmad/blob/output/github-contribution-grid-snake-dark.svg)
+
