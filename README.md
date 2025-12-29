@@ -10,7 +10,7 @@
 ## 🧠 About Me
 Mathematics graduate with a strong foundation in statistics, data analysis, and machine learning. 
 Experienced in transforming raw data into insights through SQL, Python, and BI tools. 
-Comfortable working with end-to-end data workflows — from data extraction, cleaning, analysis, 
+Comfortable working with end-to-end data workflows. from data extraction, cleaning, analysis, 
 to visualization and automation.
 
 ### Let's Connect
