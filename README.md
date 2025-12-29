@@ -13,6 +13,12 @@ Experienced in transforming raw data into insights through SQL, Python, and BI t
 Comfortable working with end-to-end data workflows. from data extraction, cleaning, analysis, 
 to visualization and automation.
 
+## 📌 Key Metrics
+- 📂 Data & Analytics Projects: **15+**
+- 📊 Dashboards & Reports Built: **8+**
+- 🤖 Automation & Data Pipelines: **6+**
+- 📄 Research Publications: **1 (Scopus Indexed)**
+
 ### Let's Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Tegar%20Ahmad-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tegarahmad)
 [![Email](https://img.shields.io/badge/Email-tegarahma00@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tegarahma00@gmail.com)
